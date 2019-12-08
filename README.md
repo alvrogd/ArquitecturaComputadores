@@ -18,3 +18,8 @@ Y, concretamente, se disponen los siguientes ficheros __para cada práctica__:
 - Ficheros para la compilación del informe en LaTeX.
 - __Códigos en C__ requeridos para la realización de las pruebas.
 - Posibles ficheros anexos al guión de la práctica.
+
+## Autores
+
+* [Álvaro Goldar Dieste](//github.com/alvrogd)
+* [Francisco Javier Cardama Santiago](//github.com/CardamaS99)
