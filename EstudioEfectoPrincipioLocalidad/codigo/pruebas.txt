@@ -1,0 +1,14 @@
+- Programa original (junto.c), compilar sin precarga
+
+- Programa original (junto.c), compilar con precarga
+
+- Programa original con obtención del índice aparte (separado.c), compilar con precarga
+
+- Acceso directo prescindiendo del array e (directo.c), compilar con precarga
+
+- Una suma en lugar de diez (simple.c), compilar con precarga
+
+- Acceso directo y una suma (doble.c), compilar con precarga
+
+
+gcc fichero.c -lm -msse3 -Wall -O1 -fprefetch-array-loops
