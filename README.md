@@ -2,7 +2,7 @@
 
 ## ¿De qué trata el repositorio?
 
-Aquí se contienen todos los ficheros correspondientes a las dos prácticas realizadas en la asignatura __Arquitectura de Computadores__ del __Grado de Ingeniería Informática__ de la __Universidad de Santiago de Compostela (USC)__.
+Aquí se contienen todos los ficheros correspondientes a las prácticas realizadas en la asignatura __Arquitectura de Computadores__ del __Grado de Ingeniería Informática__ de la __Universidad de Santiago de Compostela (USC)__.
 
 ## ¿Qué ficheros se encuentran disponibles?
 
